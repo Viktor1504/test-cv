@@ -1,0 +1,87 @@
+body {
+    background-color: #aed1de;
+    font-family: "Academy Engraved LET";
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+}
+
+.avatar {
+    width: 300px;
+    height: 300px;
+}
+
+.header-title {
+    font-size: 25px;
+}
+
+.header-subtitle {
+    color: #729ddc;
+}
+
+main {
+    border: 1px solid darkgray;
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: #aed1de;
+}
+
+.video {
+    border: none;
+    width: 600px;
+    height: 400px;
+}
+
+.ed-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed-table th,
+.ed-table td {
+    border: 1px lightgoldenrodyellow solid;
+    padding: 10px;
+}
+
+.quote {
+    font-size: 32px;
+}
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form-control {
+    width: 100%;
+}
+
+.control-text {
+    width: 50%;
+}
+
+.form-submit {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    height: 50px;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.contacts-link {
+    text-decoration: none;
+    color: #000;
+}
